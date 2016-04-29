@@ -14,7 +14,7 @@ Using such a widely adopted naming convention assists component developers throu
 
 | Alvis
 | Full
-| Components are java classes organised using packages.
+| Components are java classes organized using packages.
 | draft
 
 | ARGO/U-Compare
